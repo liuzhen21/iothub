@@ -7,5 +7,5 @@ const (
     AttributesTopic string = "v1/devices/me/attributes"
     // CommandTopic commands
     CommandTopic string = "v1/devices/me/commands"
-    CommandTopicResponse string = "v1/devices/me/command/response"
+    CommandTopicResponse string = "v1/devices/me/commands/response"
 )
